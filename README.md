@@ -30,4 +30,6 @@ Feel free to reach out to me through LinkedIn, Twitter. I'm always open to inter
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GLITCH-hash01&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Harikrishna's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GLITCH-hash01&show_icons=true&hide_border=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLITCH-hash01&layout=compact&theme=dark&hide_border=true)
+[![Harikrishna's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GLITCH-hash01&show_icons=true&hide_border=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLITCH-hash01&layout=compact&theme=dark&hide_border=true)
