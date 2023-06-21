@@ -19,7 +19,7 @@ I'm a passionate software developer with expertise in web development and python
 
 ## 🌱 Currently Learning
 
-- Backend Development: Flask,API's
+- Backend Development: Django,Flutter
 
 ## 📫 Contact Me
 
