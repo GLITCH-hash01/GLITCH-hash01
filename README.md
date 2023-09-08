@@ -12,7 +12,7 @@ I'm a passionate software developer with expertise in web development and python
     React,Tailwind,Flask,Django
 
 - Databases:
-    MySQL
+    MySQL,PostgreSql
 
 - Version Control:
     Git
