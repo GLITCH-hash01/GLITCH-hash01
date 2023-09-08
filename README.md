@@ -9,7 +9,7 @@ I'm a passionate software developer with expertise in web development and python
     Python,JavaScript,HTML,CSS,C
 
 - Frameworks and Technologies:
-    React,Tailwind,Flask
+    React,Tailwind,Flask,Django
 
 - Databases:
     MySQL
@@ -19,7 +19,7 @@ I'm a passionate software developer with expertise in web development and python
 
 ## 🌱 Currently Learning
 
-- Backend Development: Django,Flutter
+- Backend Development: Flutter,Google Cloud
 
 ## 📫 Contact Me
 
