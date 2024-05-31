@@ -17,9 +17,6 @@ I'm a passionate software developer with expertise in web development and python
 - Version Control:
     Git
 
-## 🌱 Currently Learning
-
-- Backend Development: Flutter,Google Cloud
 
 ## 📫 Contact Me
 
