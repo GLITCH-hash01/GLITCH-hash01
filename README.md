@@ -11,7 +11,7 @@ Currently, I’m diving deeper into the world of Artificial Intelligence and Mac
 
 I believe in writing clean, maintainable code, collaborating with diverse teams, and continuously learning new things.
 
-
+---
 
 ## 🚀 Skills
 
@@ -38,7 +38,7 @@ I believe in writing clean, maintainable code, collaborating with diverse teams,
 - **[IEEE YESS Event Website](https://github.com/ieeelink/yess24)**  
   Managed 2,000+ registrations and ticketing for a national event with great feedback on usability and performance.
 
-- **IEEE R10-140 Dashboard**  
+- **[IEEE R10-140 Dashboard](https://140.ieeer10.org)**  
   Competition platform used by participants from over 25 countries with a secure admin panel for live management.
 
 
