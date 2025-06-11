@@ -11,7 +11,6 @@ Currently, I’m diving deeper into the world of Artificial Intelligence and Mac
 
 I believe in writing clean, maintainable code, collaborating with diverse teams, and continuously learning new things.
 
----
 
 ## 🚀 Skills
 
